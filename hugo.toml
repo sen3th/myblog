@@ -1,6 +1,8 @@
 baseURL = "https://seneth.me"
 languageCode = 'en-us'
 theme = "coming-soon"
+relativeURLs = true
+uglyURLs = true
 
 [params]
     title = "Coming Soon!" 
