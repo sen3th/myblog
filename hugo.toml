@@ -11,13 +11,13 @@ uglyURLs = true
     message = "COMING SOON!" 
     release = "June 11, 2025"
     background = "" 
-
-socialIcons = [
-    {name = "email", url = "hi@seneth.me"},      
-    {name = "github", url = "https://github.com/sen3th"},    
-    {name = "instagram", url = "https://instagram.com/sen3th_"},    
-] 
+    
+    socialIcons = [
+        {name = "email", url = "hi@seneth.me"},      
+        {name = "github", url = "https://github.com/sen3th"},    
+        {name = "instagram", url = "https://instagram.com/sen3th_"},    
+    ]
 
 [params.twitter]
-	enable = false 
-	username = "mansoorbarri"
+    enable = false 
+    username = "mansoorbarri"
