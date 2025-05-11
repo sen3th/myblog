@@ -1,0 +1,21 @@
+baseURL = "https://seneth.me"
+languageCode = 'en-us'
+theme = "coming-soon"
+
+[params]
+    title = "Coming Soon!" 
+    description = "seneth.me"
+    favicon = true
+    message = "COMING SOON!" 
+    release = "June 11, 2025"
+    background = "" 
+
+socialIcons = [
+    {name = "email", url = "hi@seneth.me"},      
+    {name = "github", url = "https://github.com/sen3th"},    
+    {name = "instagram", url = "https://instagram.com/sen3th_"},    
+] 
+
+[params.twitter]
+	enable = false 
+	username = "mansoorbarri"
