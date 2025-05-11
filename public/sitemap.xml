@@ -2,10 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://seneth.me/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories.html</loc>
+    <loc>https://seneth.me/categories.html</loc>
   </url><url>
-    <loc>http://localhost:1313/tags.html</loc>
+    <loc>https://seneth.me/tags.html</loc>
   </url>
 </urlset>

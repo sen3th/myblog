@@ -1,0 +1,5 @@
+{{ range .Site.Params.socialIcons }}
+  <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">
+    <img src="{{ (printf "svg/icons/%s.svg" .name) | relURL }}" alt="{{ .name }} icon" class="social-icon" />
+  </a>
+{{ end }}
